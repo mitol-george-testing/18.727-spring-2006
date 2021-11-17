@@ -1,0 +1,30 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "87ff09c1-b6e2-9515-c64e-90cedb051f02"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Topics in Algebraic Geometry: Intersection Theory on Moduli Spaces",
+  "course_description": "The topics for this course vary each semester. This semester, the course aims to introduce techniques for studying intersection theory on moduli spaces. In particular, it covers the geometry of homogeneous varieties, the Deligne-Mumford moduli spaces of stable curves and the Kontsevich moduli spaces of stable maps using intersection theory.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.727",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
